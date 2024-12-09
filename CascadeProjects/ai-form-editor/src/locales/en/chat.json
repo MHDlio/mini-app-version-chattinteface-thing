@@ -1,0 +1,39 @@
+{
+  "welcome": "Hello! I'm your AI assistant. How can I help you today?",
+  "you": "You",
+  "assistant": "AI Assistant",
+  "typing": "AI is typing...",
+  "placeholder": "Type your message...",
+  "send": "Send message",
+  "input": "Chat input",
+  "title": "AI Chat",
+  "suggestions": {
+    "title": "Suggested messages"
+  },
+  "feedback": {
+    "helpful": "Mark as helpful",
+    "notHelpful": "Mark as not helpful",
+    "success": "Thank you for your feedback",
+    "thankyou": "Your feedback helps improve our AI assistant",
+    "error": "Failed to submit feedback",
+    "tryAgain": "Please try again later"
+  },
+  "error": {
+    "title": "Error",
+    "description": "Failed to send message",
+    "invalidMessage": "Invalid message format",
+    "failed": "Failed to communicate with AI service",
+    "tryAgain": "Please try again"
+  },
+  "context": {
+    "form": "Form context",
+    "field": "Field context",
+    "section": "Section context"
+  },
+  "actions": {
+    "clear": "Clear chat",
+    "copy": "Copy message",
+    "delete": "Delete message",
+    "retry": "Retry message"
+  }
+}
